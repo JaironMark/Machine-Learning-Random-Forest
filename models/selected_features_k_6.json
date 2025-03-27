@@ -1,0 +1,24 @@
+{
+    "X_train_con_outliers.xlsx": [
+        "Pregnancies",
+        "Glucose",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "X_train_sin_outliers.xlsx": [
+        "Pregnancies",
+        "Glucose",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "X_train_sel_k4.xlsx": [
+        "Pregnancies",
+        "Glucose",
+        "BMI",
+        "Age"
+    ]
+}
